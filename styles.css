@@ -24,6 +24,7 @@ h1 {
 h3{
   text-align: center;
   color: white;
+  margin:0;
 }
 p {
   font-size: 2rem;
